@@ -4,9 +4,9 @@ import whois
 
 # Replace this with your actual API key
 
-ABUSEIPDB_API_KEY = 'b0761e38cc50c8c36cb29240c634da175b38fe5dea226654d94bbfaba3ce274eeb66835e1ac77c4c'
+ABUSEIPDB_API_KEY = 'ADD YOUR API KEY'
 
-VIRUSTOTAL_API_KEY = '7069a072223c6a7093f075e0484f207897c8ad1ad97c3bc11758947174d6f057'
+VIRUSTOTAL_API_KEY = 'ADD YOUR API KEY'
 
 # Set up command-line argument parser
 parser = argparse.ArgumentParser(description="SOC Analyst Toolkit")
