@@ -40,7 +40,7 @@ python soctoolkit.py --email "C:\Users\You\Documents\sample-header.txt"
 git clone https://github.com/armandw-ceo/SOC-Analyst-Toolkit.git
 cd soc-analyst-toolkit
 
-### 2. nstall dependencies
+### 2. install dependencies
 ```bash
 pip install -r requirements.txt
 
