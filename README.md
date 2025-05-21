@@ -1,11 +1,11 @@
-# 🛡️ SOC Analyst Toolkit
+# SOC Analyst Toolkit
 
 A command-line cybersecurity tool written in Python to assist SOC analysts with common investigation tasks.  
 This toolkit automates threat intelligence lookups and email header parsing — all in one script.
 
 ---
 
-## 🎯 Features
+## Features
 
 | Function                | Description                                                      |
 |-------------------------|------------------------------------------------------------------|
@@ -16,7 +16,7 @@ This toolkit automates threat intelligence lookups and email header parsing — 
 
 ---
 
-## 🚀 Usage Examples
+## Usage Examples
 
 ```bash
 # IP reputation check
@@ -31,7 +31,9 @@ python soctoolkit.py --hash 44d88612fea8a8f36de82e1278abb02f
 # Email header parser
 python soctoolkit.py --email "C:\Users\You\Documents\sample-header.txt"
 
-## 🔧 Setup
+---
+
+## Setup
 
 ### 1. Clone the repo (or download manually)
 ```bash
@@ -46,4 +48,6 @@ pip install -r requirements.txt
 Open soctoolkit.py and paste your:
 - AbuseIPDB API key
 - VirusTotal API key
+
+
 
