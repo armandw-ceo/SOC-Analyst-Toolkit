@@ -37,7 +37,7 @@ python soctoolkit.py --email "C:\Users\You\Documents\sample-header.txt"
 
 ### 1. Clone the repo (or download manually)
 ```bash
-git clone https://github.com/armandw-ceo/soc-analyst-toolkit.git
+git clone https://github.com/armandw-ceo/SOC-Analyst-Toolkit.git
 cd soc-analyst-toolkit
 
 ### 2. nstall dependencies
